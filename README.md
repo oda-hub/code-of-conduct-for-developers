@@ -20,6 +20,12 @@ These licenses will, ideally, define entirely the practices of code sharing and 
 
 ## FAQ
 
+### Can I take part of the code and re-use it without asking original creator?
+
+You can!
+Since licenses are permissive.
+If in doubt - please read licenses - they are the reference for this sort of answers.
+
 ### Can I take part of the code and re-use it without mentioning original creator?
 
 ?
