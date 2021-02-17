@@ -16,3 +16,9 @@ As much as possible, involved institutions ([UNIGE](https://dataforum.unige.ch/t
 
 *this **code-of-conduct** does not override any contractual IP rights of ODA developers*
 
+## FAQ
+
+# Can I take part of the code and re-use it without mentioning original creator?
+
+?
+
