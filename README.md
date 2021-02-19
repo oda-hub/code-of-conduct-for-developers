@@ -5,7 +5,7 @@
 | **Prepared-By** | VS |
 | **Status** | draft |
  
-This note describes our collective understanding of how we coordinate the common open-source ODA initiative.
+This note describes our collective understanding of how we coordinate the **development of common open-source ODA initiative**.
 
 *this **code-of-conduct** is not a binding agreement by any legal meaning.*
 
@@ -15,7 +15,7 @@ This note describes our collective understanding of how we coordinate the common
 
 ## Principles
 
-We recognize that ODA is an inter-institute project, with different constrains on IP rights. 
+We recognize that ODA is an inter-institute project, with different constrains on IP rights (see also the [manifesto](https://github.com/oda-hub/manifesto)). 
 As much as possible, involved institutions ([UNIGE](https://dataforum.unige.ch/t/recommended-license-for-open-data-and-software/201), SNSF, CNRS?, others?) encourage open publishing with attribution. We shall choose these licenses whereever possible.
 
 These licenses will, ideally, define entirely the practices of code sharing and re-use, rendering the present **code-of-conduct** not useful.
