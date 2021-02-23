@@ -13,6 +13,11 @@ This note describes our collective understanding of how we coordinate the **deve
 
 *this **code-of-conduct** does not override any contractual IP rights of ODA developers*
 
+## Purpose
+
+This document describes practices of collaboration in ODA. It touches some aspects of technical practices (see [handbook]() for more), but is more focused on more human aspects of collaboration. 
+See also [other](https://www.debian.org/code_of_conduct) [inspirational](https://www.debian.org/code_of_conduct) examples of code of conduct.
+
 ## Principles
 
 We recognize that ODA is an inter-institute project, with different constrains on IP rights (see also the [manifesto](https://github.com/oda-hub/manifesto)). 
