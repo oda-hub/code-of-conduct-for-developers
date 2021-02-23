@@ -26,12 +26,12 @@ The https://github.com/oda-hub repository is owned by the original developers of
 
 Any developer, internal or external, can submit pull requests and contribute to code.
 
-But each of the components, currently represented by one or more projects in **oda-hub**, will have one or more maintainers, responsible for:
-* quickly review pull requests. If maintainer is systmatically not available, it can be considered to add/or replace maintainers
-* efficiently coordinate agree with other maintainers to act as quickly as a single responsible maintainer would. If not achievable, and not resolved to the detriment of development, maintainer collective must be  revised
-* if different maintainers have irreconcilable differences but want to continue maintaining, they should produce their own forks, possibly in the oda-hub organization
+But each of the components, currently represented by one or more projects in **oda-hub**, will have one or more maintainers.
 
-* maintainers will review pull requests as soon as possible, but are not obliged to perform developments addressing user issues. This function is regulated separately with contractual obligations of the maintainers.
+* maintainers will make **reasonable effort to review pull requests quickly, and will be welcoming to contibutors and understanding to user issues**. If maintainer is systmatically not available, it can be considered to add/or replace maintainers, if maintainer agrees.
+* maintainers are not **obliged to perform developments addressing user issues**. This function is regulated separately with contractual obligations of the maintainers. 
+* maintainers will **efficiently coordinate agree with other maintainers** to act as quickly as a single responsible maintainer would. If not achievable, and not resolved to the detriment of development, maintainer collective must be  revised
+* if different maintainers have irreconcilable differences but want to continue maintaining, they **should produce their own forks**, possibly in the oda-hub organization
 
 
 ## FAQ
