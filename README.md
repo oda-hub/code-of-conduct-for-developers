@@ -60,4 +60,4 @@ That's ok, that's what permissive license implies. Your stolen code will be, how
 
 Sorry, the software is provided as it is, and we generally can not promise to fix any issue on your schedule. If the feature matters for you - feel free to open an issue and PR. But please remember to **be civil and polite**, you are the one asking for help. 
 
-We guarantee features of our deployment as we promise them to our users, not your usage of our code.
+We guarantee features of [our deployment](https://www.astro.unige.ch/cdci/astrooda_/) as we promise them to our users, not your usage of our code.
