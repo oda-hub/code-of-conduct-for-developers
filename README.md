@@ -49,3 +49,9 @@ If in doubt - please read licenses - they are the reference for this sort of ans
 ### What if I contribute some code to ODA, and someone will steal it, embed in a different project and use it for their own good?
 
 That's ok, that's what permissive license implies. Your stolen code will be, however, accompanied by original license and some attribution - reference to authorship.
+
+## I have an issue with running the code, please fix asap!
+
+Sorry, the software is provided as it is, and we generally can not promise to fix any issue on your schedule. If the feature matters for you - feel free to open an issue and PR. But please remember to **be civil and polite**, you are the one asking for help. 
+
+We guarantee features of our deployment as we promise them to our users, not your usage of our code.
