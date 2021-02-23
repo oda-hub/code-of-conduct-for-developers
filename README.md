@@ -22,6 +22,15 @@ These licenses will, ideally, define entirely the practices of code sharing and 
 
 The https://github.com/oda-hub repository is owned by the original developers of the code, and technical rights implied apply.
 
+### Component Maintainers
+
+Any developer, internal or external, can submit pull requests and contribute to code.
+
+But each of the components, currently represented by one or more projects in **oda-hub**, will have one or more maintainers, responsible for:
+* quickly review pull requests. If maintainer is systmatically not available, it can be considered to add/or replace maintainers
+* efficiently coordinate agree with other maintainers to act as quickly as a single responsible maintainer would. If not achievable, and not resolved to the detriment of development, maintainer collective must be  revised
+* if different maintainers have irreconcilable differences but want to continue maintaining, they should produce their own forks, possibly in the oda-hub organization
+
 
 ## FAQ
 
