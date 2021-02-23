@@ -31,6 +31,8 @@ But each of the components, currently represented by one or more projects in **o
 * efficiently coordinate agree with other maintainers to act as quickly as a single responsible maintainer would. If not achievable, and not resolved to the detriment of development, maintainer collective must be  revised
 * if different maintainers have irreconcilable differences but want to continue maintaining, they should produce their own forks, possibly in the oda-hub organization
 
+* maintainers will review pull requests as soon as possible, but are not obliged to perform developments addressing user issues. This function is regulated separately with contractual obligations of the maintainers.
+
 
 ## FAQ
 
