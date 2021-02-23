@@ -38,7 +38,7 @@ But each of the components, currently represented by one or more projects in **o
 * maintainers will **efficiently coordinate agree with other maintainers** to act as quickly as a single responsible maintainer would. If not achievable, and not resolved to the detriment of development, maintainer collective must be  revised
 * if different maintainers have irreconcilable differences but want to continue maintaining, they **should produce their own forks**, possibly in the oda-hub organization
 
-> to summarize, function of the maintainer is to have a vision of the component development, be able to peacefully align this vision with other maintainers, and be kind to contributors
+> to summarize, function of the maintainer is to have a vision of the component development, be able to peacefully align this vision with other maintainers, and be kind and thankful to contributors.
 
 ## FAQ
 
