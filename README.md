@@ -15,7 +15,7 @@ This note describes our collective understanding of how we coordinate the **deve
 
 ## Purpose
 
-This document describes practices of collaboration in ODA. It touches some aspects of technical practices (see [handbook]() for more), but is more focused on more human aspects of collaboration. 
+This document describes practices of collaboration in ODA. It touches some aspects of technical practices (see [handbook]() and [best practices]() for more), but is more focused on more human aspects of collaboration. 
 See also [other](https://www.debian.org/code_of_conduct) [inspirational](https://www.debian.org/code_of_conduct) examples of code of conduct.
 
 ## Principles
