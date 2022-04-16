@@ -67,4 +67,7 @@ We guarantee features of [our deployment](https://www.astro.unige.ch/cdci/astroo
 
 credits are to be assigned accordning to provenance.
 
+provenance ensures that the contribution does not emerge out of nowhere when it is expressed in a particular document.
+
 it is to be recognized that degree of contribution is not well described as a single metric.
+
