@@ -67,7 +67,8 @@ We guarantee features of [our deployment](https://www.astro.unige.ch/cdci/astroo
 
 credits are to be assigned accordning to provenance.
 
-provenance ensures that the contribution does not emerge out of nowhere when it is expressed in a particular document.
+provenance ensures that the contribution does not emerge out of nowhere when it is expressed in a particular medium. The contribution is typically result of influences and other consumed expressions. The complex structure of the contribution should be recognized when assigning credits.
+It is in the nature of scientific process to focus on individual role of the last-creator. This should be considered with care.
 
 it is to be recognized that degree of contribution is not well described as a single metric.
 
